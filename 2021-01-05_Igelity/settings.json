@@ -1,0 +1,76 @@
+{
+
+  "SETUP": {
+    "DISPLAY_RESOLUTION_X": 1920,
+    "DISPLAY_RESOLUTION_Y": 1080,
+    "FRAME_RESOLUTION_X": 384,
+    "FRAME_RESOLUTION_Y": 216,
+    "WINDOW_PROPERTY": "WINDOW_FULLSCREEN"
+  },
+
+  "ROI_0": {
+    "POS_X":  419,
+    "POS_Y":  88,
+    "WIDTH":  26,
+    "HEIGHT": 240,
+    "THRESHOLD": 120,
+    "IS_PRESENT": 18
+  },
+  
+  "ROI_1": {
+    "POS_X":  622,
+    "POS_Y":  67,
+    "WIDTH":  46,
+    "HEIGHT": 860,
+    "THRESHOLD": 50,
+    "IS_PRESENT": 18
+  },
+  
+  "ROI_2": {
+    "POS_X":  699,
+    "POS_Y":  59,
+    "WIDTH":  32,
+    "HEIGHT": 860,
+    "THRESHOLD": 50,
+    "IS_PRESENT": 27
+  },
+  
+  "ROI_3": {
+    "POS_X":  243,
+    "POS_Y":  295,
+    "WIDTH":  413,
+    "HEIGHT": 40,
+    "THRESHOLD": 50,
+    "IS_PRESENT": 27
+  },
+  
+  "ROI_4": {
+    "POS_X":  243,
+    "POS_Y":  645,
+    "WIDTH":  417,
+    "HEIGHT": 48,
+    "THRESHOLD": 50,
+    "IS_PRESENT": 17
+  },
+  
+  "ROI_5": {
+    "POS_X":  419,
+    "POS_Y":  655,
+    "WIDTH":  30,
+    "HEIGHT": 260,
+    "THRESHOLD": 50,
+    "IS_PRESENT": 17
+  },
+  
+  "DIRA": {
+    "POS_X":  486,
+    "POS_Y":  399,
+    "WIDTH":  132,
+    "HEIGHT": 192,
+    "THRESHOLD": 95,
+    "IS_PRESENT": 17
+  }
+
+
+
+}
